@@ -21,4 +21,4 @@ Cyfer focuses on a clean, minimal interface that encourages good password habits
 Although the Cyfer prototype is not connected to a real database and does not store actual user data, it represents how the final app would work in a secure and encrypted environment.
 The current design is optimized for mobile screens.
 
-![Team ADL](TeamADL.png)
+![Team ADL](team-logo.png)
