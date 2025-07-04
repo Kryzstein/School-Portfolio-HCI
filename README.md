@@ -11,6 +11,6 @@
 
 <h2>Usage instructions</h2>
 - <b>TEAM ADL - AVILA, DORADO, LANGRES
-Cyfer is a secure, easy-to-use password manager that protects your data with end-to-end encryption and zero-knowledge security. Store, generate, and access your passwords safely—anytime, anywhere.</b>
+<br>Cyfer is a secure, easy-to-use password manager that protects your data with end-to-end encryption and zero-knowledge security. Store, generate, and access your passwords safely—anytime, anywhere.</b>
 
 <h2> | <a href="https://www.figma.com/design/pHAOW9XRJTtZFc4CsqkBm0/HCI?node-id=69-946&p=f&m=draw">Figma Prototype</a> | </h2>
